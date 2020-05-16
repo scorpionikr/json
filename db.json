@@ -1,28 +1,75 @@
 {
   "winners": [
-      {
-        "name": "Rafał",
-        "scores": "293",
-        "id": 3
-      },
-      {
-        "name": "Wojteksb",
-        "scores": "428",
-        "id": 4
-      },
-      {
-        "name": "H2ziom",
-        "scores": "664",
-        "id": 5
-      }
+    {
+      "name": "Rafał",
+      "scores": "293",
+      "id": 3
+    },
+    {
+      "name": "Wojteksb",
+      "scores": "428",
+      "id": 4
+    },
+    {
+      "name": "H2ziom",
+      "scores": "664",
+      "id": 5
+    }
   ],
   "chat": [
-
+    {
+      "name": "ADAS",
+      "message": "co slychac?",
+      "color": "orange",
+      "time": "12:19:29 PM",
+      "id": 1
+    },
+    {
+      "name": "ADAS",
+      "message": "ladna pogoda",
+      "color": "orange",
+      "time": "12:19:47 PM",
+      "id": 2
+    },
+    {
+      "name": "ADAS",
+      "message": ":)",
+      "color": "orange",
+      "time": "12:19:54 PM",
+      "id": 3
+    }
   ],
   "users": [
-
+    {
+      "name": "RAFAL",
+      "color": "black",
+      "id": 2
+    }
   ],
   "logs": [
-
+    {
+      "message": "RAFALK zalogował się!",
+      "id": 1
+    },
+    {
+      "message": "RAFAL zalogował się!",
+      "id": 2
+    },
+    {
+      "message": "RAFAL2 zalogował się!",
+      "id": 3
+    },
+    {
+      "message": "RAFAL2 wylogował się!",
+      "id": 4
+    },
+    {
+      "message": "ADAS zalogował się!",
+      "id": 5
+    },
+    {
+      "message": "ADAS wylogował się!",
+      "id": 6
+    }
   ]
 }
