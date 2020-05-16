@@ -1,6 +1,20 @@
 {
   "winners": [
-
+      {
+        "name": "Rafał",
+        "scores": "293",
+        "id": 3
+      },
+      {
+        "name": "Wojteksb",
+        "scores": "428",
+        "id": 4
+      },
+      {
+        "name": "H2ziom",
+        "scores": "664",
+        "id": 5
+      }
   ],
   "chat": [
 
